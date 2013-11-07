@@ -1,5 +1,0 @@
-spike to port EAK's conventions to rails using dockyards https://github.com/dockyard/es6_module_transpiler-rails
-
-this spike will hopefully lead to an improved ember-rails.
-
-thanks @bcardarella for doing the hard work.
